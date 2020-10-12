@@ -21,10 +21,14 @@ for atcoder use ```atc``` (in platform field)
   NOTE: c is defined as alias for creating. You can go to alias.cmd to change it to whatever you like.
 
 ### How to run codes
+NOTE: You need to have in.txt file in the same folder as the code. in.txt will have inputs given to the code
 > 1. Syntax is ```r <filename> <platform> <cpp or java>``` (default platform is cc, change in create.cmd to change default and default language is java. You need to type cpp everytime to create from cpp template bcz we already type a lot in java :) )
 
 NOTE: for codeforces the java template would replace the class name as the filename and would declare the class as public
-
+### How to create contest folder
+> 1. ccon <contest name>
+  
+Note: This will create a folder "contest name" and an input file names in.txt and change directory to that folder. :)
 Template has all the templates. You can read them at your convinence.
 Top are ProblemSolver class, InputReader, OutputWriter, Number Theory and Debug class and timeit.
 
