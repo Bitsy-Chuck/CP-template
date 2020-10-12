@@ -26,7 +26,7 @@ NOTE: You need to have in.txt file in the same folder as the code. in.txt will h
 
 NOTE: for codeforces the java template would replace the class name as the filename and would declare the class as public
 ### How to create contest folder
-> 1. ccon <contest name>
+> 1. ccon ```<contest name>```
   
 Note: This will create a folder "contest name" and an input file names in.txt and change directory to that folder. :)
 Template has all the templates. You can read them at your convinence.
