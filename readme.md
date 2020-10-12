@@ -26,6 +26,8 @@ How to run codes
 NOTE: for codeforces the java template would replace the class name as the filename and would declare the class as public
 
 Template has all the templates. You can read them at your convinence.
-Top are ProblemSolver class, InputReader, OutputWriter, Number Theory and Debug class.
+Top are ProblemSolver class, InputReader, OutputWriter, Number Theory and Debug class and timeit.
+
+> To get the execution time, in the main function set ```checkTimeELAPSED=0``` to 1
 
 #### Maybe future update:  To analyse the bytecode using asm or something to get the variable name. Current verdict is that it cannot be done and I think that is true (and No, reflection does not work for local variables).
