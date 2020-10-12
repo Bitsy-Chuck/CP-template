@@ -5,9 +5,9 @@ This will help you create and run codes from templates automatically for java an
 ## FOR WINDOWS OS (Using CMD)
 Support has been added for codeforces, codechef and atcoder.
 
-for codeforces use cf
-for codechef use cc
-for atcoder use atc
+for codeforces use ```cf```
+for codechef use ```cc```
+for atcoder use ```atc```
 
 To run you need to do the following on windows, you need to run alias.cmd everytime your cmd boots up.
 > 1. Create shortcut of alias.cmd
